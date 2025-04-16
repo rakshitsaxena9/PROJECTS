@@ -1,4 +1,3 @@
-# AIzaSyAqrAuWnbAU6BzqarmXN4mGyrkXjkPwolo
 # Import the Python SDK
 # import google.generativeai as genai
 import json 
